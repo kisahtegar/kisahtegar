@@ -1,19 +1,33 @@
 <h1 align="center">Hi 👋, I'm Kisah Tegar Putra Abdi</h1>
-<h3 align="center">A passionate android developer from Indonesia</h3>
+<h3 align="center">A passionate developer from Indonesia. I like to learn more about programming like Flutter, Python, and more.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kisahtegar&label=Profile%20views&color=0e75b6&style=flat" alt="kisahtegar" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@tegarkisah" target="blank"><img src="https://img.shields.io/twitter/follow/@tegarkisah?logo=twitter&style=for-the-badge" alt="tegarkisah" /></a> </p>
+<p align="left"> <a href="https://twitter.com/tegarkisah" target="blank"><img src="https://img.shields.io/twitter/follow/tegarkisah?logo=twitter&style=for-the-badge" alt="tegarkisah" /></a> </p>
+
+<!-- - 🔭 I’m currently working on [test](https://example.com) -->
 
 - 🌱 I’m currently learning **Flutter**
+
+<!-- - 👯 I’m looking to collaborate on [test](https://example.com) -->
+
+<!-- - 🤝 I’m looking for help with [test](https://example.com) -->
+
+- 📱 All of my flutter projects are available at [https://github.com/kisahtegar/Flutter](https://github.com/kisahtegar/Flutter)
+
+- 🐍 All of my python projects are available at [https://github.com/kisahtegar/Python](https://github.com/kisahtegar/Python)
+
+<!-- - 📝 I regularly write articles on [https://example.com](https://example.com) -->
 
 - 💬 Ask me about **Android, Flutter**
 
 - 📫 How to reach me **code.kisahtegar@gmail.com**
 
+<!-- - 📄 Know about my experiences [https://example.com](https://example.com) -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@tegarkisah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tegarkisah" height="30" width="40" /></a>
+<a href="https://twitter.com/tegarkisah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tegarkisah" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kisah-tegar-putra-abdi-10510924b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kisah-tegar-putra-abdi-10510924b" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16755245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16755245" height="30" width="40" /></a>
 <a href="https://fb.com/kisah.tegar.56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kisah.tegar.56" height="30" width="40" /></a>

@@ -1,51 +1,125 @@
 <h1 align="center">Hi 👋, I'm Kisah Tegar Putra Abdi</h1>
-<h3 align="center">A passionate developer from Indonesia. I like to learn more about programming.</h3>
+<h3 align="center">A passionate developer from Indonesia who loves exploring and mastering various programming languages and frameworks.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kisahtegar&label=Profile%20views&color=0e75b6&style=flat" alt="kisahtegar" /> </p>
-
-<!-- <p align="left"> <a href="https://twitter.com/tegarkisah" target="blank"><img src="https://img.shields.io/twitter/follow/tegarkisah?logo=twitter&style=for-the-badge" alt="tegarkisah" /></a> </p> -->
-
-<!-- - 🔭 I’m currently working on [test](https://example.com) -->
-
-- 🌱 I’m currently learning **Flutter**
-
-<!-- - 👯 I’m looking to collaborate on [test](https://example.com) -->
-
-<!-- - 🤝 I’m looking for help with [test](https://example.com) -->
-
-- 👨‍💻 All of my projects are available at [https://github.com/kisahtegar](https://github.com/kisahtegar)
-
-<!-- - 📝 I regularly write articles on [https://example.com](https://example.com) -->
-
-- 💬 Ask me about **Android, Flutter and other**
-
-- 📫 How to reach me **code.kisahtegar@gmail.com**
-
-- 📄 Know about my experiences [kisahcode.web.app](https://kisahcode.web.app)
-
-<!-- MY PROJECT & REPOSITORY -->
-<h3 align="left">My Project, Repository & Docs:</h3>
-<p align="left">
-<a href="https://github.com/kisahtegar/Flutter_docs" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://github.com/kisahtegar/Python_docs" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://github.com/kisahtegar/CPP_docs" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/> </a> <a href="https://github.com/kisahtegar/HTML_docs" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/> </a> <a href="https://github.com/kisahtegar/AHK_docs" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Ixiko/AHK-Forum/master/images/AHK%20main%20icon.png" alt="ahk" width="40" height="40"/> </a> <a href="https://github.com/kisahtegar/JavaScript_docs" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://github.com/kisahtegar/Golang_docs" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="40" height="40"/> </a> <a href="https://github.com/kisahtegar/Kotlin_docs" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kisahtegar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<!-- CONNECT WITH ME -->
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🌟 About Me
+
+- 🌱 I’m currently learning **Flutter**, **React**, **Kotlin**, and **More..**
+- 💬 Ask me about **Android Development**, **Flutter** and **Web Development**.
+- 👨‍💻 Check out all my projects at [github.com/kisahtegar](https://github.com/kisahtegar).
+- 📫 How to reach me: **<code.kisahtegar@gmail.com>**
+- 📄 Know about my experiences: [kisahcode.web.app](https://kisahcode.web.app)
+<!-- - 👯 I’m looking to collaborate on [test](https://example.com) -->
+<!-- - 🤝 I’m looking for help with [test](https://example.com) -->
+<!-- - 📝 I regularly write articles on [https://example.com](https://example.com) -->
+
+---
+
+### 🚀 My Projects & Repositories
+
 <p align="left">
-<a href="https://twitter.com/tegarkisah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tegarkisah" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kisah-tegar-putra-abdi-10510924b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kisah-tegar-putra-abdi-10510924b" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16755245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16755245" height="30" width="40" /></a>
-<a href="https://fb.com/kisah.tegar.56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kisah.tegar.56" height="30" width="40" /></a>
-<a href="https://instagram.com/kisahtegar_code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kisahtegar_code" height="30" width="40" /></a>
-<a href="https://discord.gg/TFkXwrzs3t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="TFkXwrzs3t" height="30" width="40" /></a> </p>
+  <a href="https://github.com/kisahtegar/flutter-labs" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/kisahtegar/kotlin-labs" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/kisahtegar/python-labs" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/kisahtegar/react-labs" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/kisahtegar/cpp-labs" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/kisahtegar/golang-labs" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Golang" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/kisahtegar/AHK_docs" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/Ixiko/AHK-Forum/master/images/AHK%20main%20icon.png" alt="ahk" width="40" height="40"/>
+  </a>
+</p>
 
-<!-- LANGUAGES AND TOOLS -->
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://github.com/kisahtegar/Docker_docs" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://github.com/kisahtegar/PostgreSQL_docs" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="psql" width="40" height="40"/> </a> <a href="https://github.com/kisahtegar/Golang_docs" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="40" height="40"/> </a> <a href="https://github.com/kisahtegar/Kotlin_docs" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
+---
 
-<!-- GITHUB STATS -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kisahtegar&show_icons=true&locale=en&layout=compact" alt="kisahtegar" /></p>
+### 🔧 Languages and Tools
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kisahtegar&show_icons=true&locale=en" alt="kisahtegar" /></p>  -->
+<p align="left">
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
+  </a>
+  <a href="https://dart.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
+  </a>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
+  </a>
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/kisahtegar/Golang_docs" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/kisahtegar/docker-labs" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/kisahtegar/PostgreSQL_docs" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="psql" width="40" height="40"/>
+  </a>
+</p>
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kisahtegar&" alt="kisahtegar" /></p> -->
+---
+
+### 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://twitter.com/tegarkisah" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/kisah-tegar-putra-abdi" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://stackoverflow.com/users/16755245" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/kisah.tegar.56" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/kisahtegar_code" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" heighClean Architecturet="30" width="40" />
+  </a>
+  <a href="https://discord.com/users/kisahtegar" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kisahtegar&show_icons=true&locale=en&layout=compact" alt="kisahtegar" />
+  <!-- &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kisahtegar&show_icons=true&locale=en" alt="kisahtegar" /> -->
+  <!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kisahtegar&" alt="kisahtegar" /> -->
+</p>
